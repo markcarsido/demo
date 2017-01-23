@@ -1,0 +1,57 @@
+body{
+    width:100%;
+    height:100%;
+    background-image:url(clouds2.jpg);
+}
+
+table{
+    color:#e6f2ff;
+    /*border-spacing: 10px;*/
+}
+    
+h2{
+    color:#66b3ff;
+}
+
+h3{
+    color:#66b3ff;
+}
+
+h4{
+    color:white;
+}
+
+h5,h6{
+    color:#66b3ff;
+}
+
+script{
+    color:white;
+}
+p{
+    color:white;
+}
+
+img{
+    width:150px;
+    height:150px;
+}
+
+img:hover{
+    opacity:0.4;
+}
+
+#logo{
+    width:60px;
+    height:50px;
+    padding:5px;
+}
+
+#logo:hover{
+    opacity:1;
+}
+
+.img-rounded{
+    width:70px;
+    height:70px;   
+}
