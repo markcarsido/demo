@@ -185,7 +185,7 @@
 
 <html>
     <head>
-        <title>Login Sample</title>
+        <title>Login PHP Sample</title>
         <script type = "text/javascript" src = "jquery-2.1.4.min.js"></script>
     
         <meta name = "viewport" content = "width=device=width,initial-scale=1">
@@ -205,7 +205,7 @@
                 
                 <div class = "collapse navbar-collapse">
                     <ul class = "nav navbar-nav">
-                        <li><a>Welcome</a></li>
+                        <li><a>Welcome BES Jhong!!!</a></li>
                     </ul>
                     
                 </div>
